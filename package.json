@@ -1,0 +1,15 @@
+{
+    "name": "my-app",
+    "version": "0.1.0",
+    "private": true,
+    "dependencies": {
+    },
+    "devDependencies": {
+
+    },
+    "scripts": {
+        "ts": "tsc creational.factorymethod.ts && node creational.factorymethod.js"
+    },
+    "engines": {}
+
+}
