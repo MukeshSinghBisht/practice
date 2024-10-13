@@ -8,7 +8,7 @@
 
     },
     "scripts": {
-        "ts": "tsc creational.factorymethod.ts && node creational.factorymethod.js"
+        "ts": "tsc creational.factorymethod.ts  --outDir dist && node dist/creational.factorymethod.js"
     },
     "engines": {}
 
